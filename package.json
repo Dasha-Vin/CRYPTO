@@ -2,7 +2,6 @@
   "name": "react-crypto-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Dasha-Vin.github.io/CRYPTO",
   "type": "module",
   "scripts": {
     "dev": "vite",
